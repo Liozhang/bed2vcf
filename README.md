@@ -1,9 +1,10 @@
 # bed2vcf
+
 Convert BED or TSV formatted files to VCF files using a reference genome.
 
 ## Installation
 
-1. **Directly install by using conda.**
+* Directly install by using conda.
 
 ```git clone https://github.com/Liozhang/bed2vcf.git
 cd bed2vcf```
