@@ -5,15 +5,16 @@ Convert BED or TSV formatted files to VCF files using a reference genome.
 
 1. **Directly install by using conda.**
 
-`git clone https://github.com/Liozhang/bed2vcf.git`
-`cd bed2vcf`
-`conda install -c bioconda -c conda-forge --file requirement.txt`
+```git clone https://github.com/Liozhang/bed2vcf.git
+cd bed2vcf```
+
+```conda install -c bioconda -c conda-forge --file requirement.txt```
 
 or
 
-`conda install -c bioconda -c conda-forge bcftools=1.15 snpsift=4.3 pandas tabix=1.11 samtools=1.15`
+```conda install -c bioconda -c conda-forge bcftools=1.15 snpsift=4.3 pandas tabix=1.11 samtools=1.15```
 
-2. **Reference file:**
+1. **Reference file:**
 
 Clinvar: [clinvar_20211010.vcf.gz](https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar_20211010.vcf.gz)
 
@@ -21,12 +22,12 @@ hg38:[FASTA](http://ftp.ensembl.org/pub/release-103/fasta/homo_sapiens/dna/Homo_
 
 3. **Index reference file**
 
-`samtools faidx Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz`
-`tabix clinvar_20211010.vcf.gz`
+```samtools faidx Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+tabix clinvar_20211010.vcf.gz```
 
 4. **Test script**
 
-`bash bed2vcf_anno.sh`
+```bash bed2vcf_anno.sh```
 
 5. **Input format**
 
