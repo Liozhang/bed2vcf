@@ -123,7 +123,7 @@ if __name__ == '__main__':
         
     print(f'Got file {tsv.shape}:\n{tsv.head()}')
         
-    # 创建vcf文件头
+    # create vcf header
     vcf_header = vcfheader()
     if options.info_cols:
         for i in options.info_cols:
