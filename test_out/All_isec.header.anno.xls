@@ -1,0 +1,29 @@
+CHROM	POS	REF	ALT	GENE_ID	CLNSIG	CLNVC	BCSQ
+1	930248	G	A	ENSG00000187634	Likely_benign	single_nucleotide_variant	missense|SAMD11|ENST00000616016|protein_coding|+|235G>235S|930248G>A,missense|SAMD11|ENST00000618323|protein_coding|+|235G>235S|930248G>A,missense|SAMD11|ENST00000437963|protein_coding|+|56G>56S|930248G>A,missense|SAMD11|ENST00000342066|protein_coding|+|56G>56S|930248G>A,missense|SAMD11|ENST00000616125|protein_coding|+|56G>56S|930248G>A,missense|SAMD11|ENST00000618779|protein_coding|+|56G>56S|930248G>A,missense|SAMD11|ENST00000622503|protein_coding|+|56G>56S|930248G>A,missense|SAMD11|ENST00000618181|protein_coding|+|56G>56S|930248G>A,missense|SAMD11|ENST00000617307|protein_coding|+|56G>56S|930248G>A
+1	16650074	G	A	.			non_coding|CROCCP2||transcribed_unprocessed_pseudogene,non_coding|MST1P2||unprocessed_pseudogene
+1	149175922	G	A	.			
+10	49239797	G	A	.			
+11	236473	C	T	.			intron|SIRT3||protein_coding,non_coding|SIRT3||processed_transcript
+11	5227172	G	A	.	Pathogenic	single_nucleotide_variant	5_prime_utr|HBB|ENST00000647020|protein_coding
+13	113232201	C	T	.			intron|CUL4A||protein_coding,non_coding|CUL4A||processed_transcript
+16	87492502	G	A	.			5_prime_utr|ZCCHC14|ENST00000671377|protein_coding
+17	77562782	C	T	.			
+19	835423	C	T	.			
+19	15974663	C	T	.			
+2	126990	C	T	.			
+2	111225090	G	A	.			
+22	17146384	G	A	.			intron|HDHD5||protein_coding
+3	195417486	G	A	.			intron|ACAP2||protein_coding,non_coding|ACAP2||retained_intron,non_coding|ACAP2||processed_transcript,intron|ACAP2||NMD
+3	196462115	G	A	.			
+4	1721308	G	A	.			5_prime_utr|TMEM129|ENST00000303277|protein_coding,5_prime_utr|TMEM129|ENST00000382936|protein_coding,5_prime_utr|TMEM129|ENST00000536901|protein_coding
+6	676332	C	T	.			intron|EXOC2||protein_coding
+7	6849599	G	A	.			
+7	102331202	C	T	.			
+8	183546	G	A	.			
+9	107908	G	A	.			
+9	6298402	C	T	.			
+9	38564439	C	T	.			intron|FAM95C||NMD,non_coding|FAM95C||processed_transcript
+9	62813212	G	A	.			
+9	69092100	C	T	.			intron|AL358113.1||NMD,intron|AL358113.1||protein_coding
+X	3631523	G	A	.			intron|PRKX||protein_coding,non_coding|PRKX||processed_transcript
+X	103228885	G	A	.			
